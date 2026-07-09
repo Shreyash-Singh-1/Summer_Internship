@@ -20,9 +20,8 @@ The goal of this internship was to leverage data to drive business decisions, op
 
 * **Key Features:** Imported data from Excel, CSV, and databases to visualize KPIs such as total sales, revenue trends, and top-performing products. Designed the dashboard using charts, filters, and slicers for interactive analysis.
 * **Expected Outcome:** Gained hands-on experience in data visualization, KPI tracking, and business insight generation.
-<img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/9e9deea3-7d31-489f-bf12-549b898c5fea" />
-<img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/2212d2c4-d5c7-4cc7-b9b1-7926581d0db8" />
-
+<img width="1779" height="398" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/5a12b2d2-821f-42f8-8a61-b148514964db" />
+<img width="1778" height="436" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/6caab011-d4cb-405c-9f5b-1bbb0404a507" />
 
 
 ### 2. Customer Segmentation Project
