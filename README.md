@@ -29,6 +29,10 @@ The goal of this internship was to leverage data to drive business decisions, op
 
 * **Key Features:** Performed clustering using Python (scikit-learn) and Power BI. Analyzed purchase patterns and customer preferences, and visualized the distinct segments and their key characteristics.
 * **Expected Outcome:** Developed strong skills in customer analytics, segmentation techniques, and extracting targeted insights.
+<img width="1144" height="247" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/8acfe3db-6299-48f9-acb2-8bdfd36b522e" />
+<img width="1798" height="584" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/2c9289b4-4c9d-4952-ac06-62416a7ae4d5" />
+
+
 
 ### 3. Predictive Analytics Using Historical Data
 **Objective:** Build a predictive model to forecast future trends.
