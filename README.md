@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/a8216557-cf5b-4c74-8112-0b3689b2e211" /># 📊 Data Analytics Internship Portfolio
+# 📊 Data Analytics Internship Portfolio
 
 Welcome to my internship repository! This space contains the documentation and outcomes of the four major projects I completed during my data analytics internship at **[Company Name]**. 
 
@@ -20,7 +20,6 @@ The goal of this internship was to leverage data to drive business decisions, op
 
 * **Key Features:** Imported data from Excel, CSV, and databases to visualize KPIs such as total sales, revenue trends, and top-performing products. Designed the dashboard using charts, filters, and slicers for interactive analysis.
 * **Expected Outcome:** Gained hands-on experience in data visualization, KPI tracking, and business insight generation.
-![Up<img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/b9a87829-46d1-42df-8580-2007366f0514" />
 <img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/9e9deea3-7d31-489f-bf12-549b898c5fea" />
 <img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/2212d2c4-d5c7-4cc7-b9b1-7926581d0db8" />
 
