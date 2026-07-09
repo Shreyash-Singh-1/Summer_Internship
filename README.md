@@ -39,6 +39,10 @@ The goal of this internship was to leverage data to drive business decisions, op
 
 * **Key Features:** Cleaned and preprocessed historical datasets to train regression and time-series models. Evaluated model accuracy and visualized the final predictions against historical baselines.
 * **Expected Outcome:** Mastered the fundamentals of predictive modeling, trend analysis, and data-driven forecasting.
+<img width="1695" height="176" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/0169cd9c-0148-4542-ace0-693c455edd55" />
+<img width="1753" height="630" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/dd8b0b66-903b-44e0-b54b-54bfff8e430f" />
+
+
 
 ### 4. Data Cleaning & Reporting Automation
 **Objective:** Automate data cleaning and reporting workflows to improve efficiency.
