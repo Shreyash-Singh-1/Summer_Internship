@@ -49,3 +49,7 @@ The goal of this internship was to leverage data to drive business decisions, op
 
 * **Key Features:** Used Python, Excel, and Power BI to build automated workflows. The scripts handle missing values, remove duplicates, resolve inconsistent data, and generate automated reports with visual summaries.
 * **Expected Outcome:** Deepened understanding of data preprocessing, workflow automation, and reporting efficiency.
+<img width="1740" height="416" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/ac14289c-a649-426e-ae78-aa2b2c51d158" />
+<img width="1728" height="487" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/cad8edde-89cb-4d39-9f1e-18331f49e912" />
+
+
